@@ -1,2 +1,2 @@
 # githubActionsTesting
-![example workflow](https://github.com/EmmadeNie/githubActionsTesting/actions/workflows/main.yml/badge.svg)
+![CI Action status](https://github.com/EmmadeNie/githubActionsTesting/actions/workflows/runtests.yml/badge.svg)
